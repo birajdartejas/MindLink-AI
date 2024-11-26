@@ -21,7 +21,7 @@ MindLink AI is an intelligent conversational assistant built using OpenAI's GPT 
 ![Homepage](HomePage.png)
 
 ### 2. **Chat Interface**
-![Chat Interface](Chat Interface.png)
+![Chat Interface](ChatInterface.png)
 
 ### 3. **Chat History**
 ![Chat History](ss/chat_history.png)
