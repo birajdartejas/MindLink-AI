@@ -1,5 +1,5 @@
 
-# MindLink AI 
+# Text Generation AI ChatBot 
 
 MindLink AI is an intelligent conversational assistant built using OpenAI's GPT API. This project is designed with Flask as the backend framework, TailwindCSS for the modern frontend design, and MongoDB to store user interactions.
 
