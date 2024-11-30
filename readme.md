@@ -52,8 +52,3 @@ MindLink AI is an intelligent conversational assistant built using OpenAI's GPT 
 - MongoDB installed or access to MongoDB Atlas.
 - OpenAI API key.
 
-### Steps to Run Locally
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/MindLink-AI.git
-   cd MindLink-AI
